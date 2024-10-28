@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipiciiwu.github.io/sitemap_index.ipiciiwu
